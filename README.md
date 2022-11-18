@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dukan</h1> http://www.psd-dude.com/tutorials/matrix-effect-animation-gif-photoshop-tutorial/matrix-effect-with-code-rain-animation-photoshop-tutorial.gif
+<h1 align="center">Hi 👋, I'm Dukan</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dukanzin&label=Profile%20views&color=0e75b6&style=flat" alt="dukanzin" /> </p>
